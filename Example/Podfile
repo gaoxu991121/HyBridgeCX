@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HyBridgeCX_Tests' do
+  pod 'HyBridgeCX', :path => '../'
+  
+  
+end

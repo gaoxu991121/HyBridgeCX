@@ -1,0 +1,16 @@
+PODS:
+  - HyBridgeCX (0.1.0)
+
+DEPENDENCIES:
+  - HyBridgeCX (from `../`)
+
+EXTERNAL SOURCES:
+  HyBridgeCX:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HyBridgeCX: da0686899ca1d8eea18c9e07ffe114061bbb5d58
+
+PODFILE CHECKSUM: c41cc3e7c2dabcdc10892cce239a3033190d1fa1
+
+COCOAPODS: 1.10.1
