@@ -1,6 +1,0 @@
-framework module HyBridgeCX {
-  umbrella header "HyBridgeCX-umbrella.h"
-
-  export *
-  module * { export * }
-}
